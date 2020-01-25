@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pkg	blosxom4nagios
 Summary:	A flexible, powerful RSS/Atom notification handler for Nagios
 Name:		nagios-%{pkg}
